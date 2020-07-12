@@ -1,0 +1,9 @@
+export const getName = (state) => state.postReducer.user.name
+export const getNameIsValidValue = (state) => state.postReducer.user.nameIsValid
+export const getPassword = (state) => state.postReducer.user.password
+export const getPasswordIsValidValue = (state) => state.postReducer.user.passwordIsValid
+export const getEmail = (state) => state.postReducer.user.email
+export const getEmailIsValidValue = (state) => state.postReducer.user.emailIsValid
+export const getCheckBoxIsValidValue = (state) => state.postReducer.user.checkBoxIsValid
+export const getDate = (state) => state.postReducer.user.date
+export const getCity = (state) => state.postReducer.user.title

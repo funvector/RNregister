@@ -1,0 +1,6 @@
+export const ADD_NAME = 'ADD_NAME'
+export const ADD_EMAIL = 'ADD_EMAIL'
+export const ADD_PASSWORD = 'ADD_PASSWORD'
+export const ADD_CHECKBOXVALUE = 'ADD_CHECKBOXVALUE'
+export const ADD_DATEVALUE = 'ADD_DATEVALUE'
+export const ADD_CITYVALUE = 'ADD_DATEVALUE'
